@@ -49,6 +49,6 @@ It does not guess whether a human or a model wrote the draft. Detectors guess. N
 
 ## Want this on your own brand?
 
-The free pack is generic. The paid version encodes your brand guidelines, voice, and examples so every agent in your company writes on brand. Details at skeltonmedia.com/skills.
+The free pack is generic. The paid version encodes your brand guidelines, voice, and examples so every agent in your company writes on brand. Details at skeltonmedia.com.
 
 MIT license. Built by David Skelton, Skelton Media.
