@@ -1,0 +1,4 @@
+{
+  "min_findings": 8,
+  "must_include": ["banned word", "empty phrase", "em dash cluster", "binary contrast"]
+}
